@@ -1,0 +1,10 @@
+{
+  "name": "dao-governance-alpha",
+  "version": "1.0.0",
+  "description": "Standardized DAO governance and voting token system",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  },
+  "author": "Alex000115",
+  "license": "MIT"
+}
